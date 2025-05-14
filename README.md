@@ -3,7 +3,7 @@ Combined passenger-and-parcel delivery problem with request incompatibility
 This repository contains the instances used in this research, categorized by the number of requests:
 4, 6, 8, 10, 12, 14, 16, 18, 20, 40, 60, 80, and 100 requests.
 
-Each instance includes four types of distance matrices based on different service scenarios:
+Each instance includes four types of distance matrices based on different scenarios:
 SS, SC, CS, and CC.
 
 In addition, each instance comes with a corresponding set of parameters as described below:
