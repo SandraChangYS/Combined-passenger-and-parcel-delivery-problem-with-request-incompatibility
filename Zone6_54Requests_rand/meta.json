@@ -1,0 +1,16 @@
+{
+  "zone": 6,
+  "n_requests": 54,
+  "seed": null,
+  "service": "09:00-17:00",
+  "graph_source": "graphml: yunlin+20km",
+  "min_origin_sep_effective_m": 0.0,
+  "incomp_ratio_target": 0.3,
+  "incomp_ratio_actual": 0.29979,
+  "accomp_probs": {
+    "p0": 0.20000000000000004,
+    "p1": 0.7000000000000001,
+    "p2": 0.10000000000000002
+  },
+  "features_source": "gpkg: yunlin county cached"
+}
